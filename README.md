@@ -1,2 +1,1 @@
-# aadots
-setup scripts
+scripts to setup my dotfiles
